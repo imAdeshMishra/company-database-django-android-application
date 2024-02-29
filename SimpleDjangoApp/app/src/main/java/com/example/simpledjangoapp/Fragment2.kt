@@ -20,6 +20,7 @@ class Fragment2 : Fragment() {
 
     }
 
+//    binding for fragment2
     lateinit var binding: Fragment2Binding
 
     private lateinit var adapter: EmployeeAdapter
